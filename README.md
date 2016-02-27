@@ -1,0 +1,2 @@
+# Entity-Resolution
+1: How many distinct courses does this dataset contain? 2: List all the courses (in alphabetical order) taught by Professor Mitchell Theys in comma‐separated form. 3: For professors who have taught at least 5 courses, using Jaccard distance to determine which two professors have the most aligned teaching interests based on course titles. Note that you should implement the function to calculate Jaccard distance instead of using an existing package.
